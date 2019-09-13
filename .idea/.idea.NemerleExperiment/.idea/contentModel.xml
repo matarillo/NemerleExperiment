@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Dev\Temp\NemerleExperiment" t="IncludeFlat">
+      <e p="NemerleCompilerCore" t="IncludeRecursive">
+        <e p="Accessibility.cs" t="Include" />
+        <e p="AttributesAndModifiers.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BuiltinMethodKind.cs" t="Include" />
+        <e p="EventBuilder.cs" t="Include" />
+        <e p="FieldBuilder.cs" t="Include" />
+        <e p="FixedType.cs" t="Include" />
+        <e p="IEvent.cs" t="Include" />
+        <e p="IMember.cs" t="Include" />
+        <e p="IMethod.cs" t="Include" />
+        <e p="ISupportRelocation.cs" t="Include" />
+        <e p="Located.cs" t="Include" />
+        <e p="Location.cs" t="Include" />
+        <e p="MemberBuilder.cs" t="Include" />
+        <e p="MemberInfo.cs" t="Include" />
+        <e p="MemberKinds.cs" t="Include" />
+        <e p="MethodBuilder.cs" t="Include" />
+        <e p="NemerleCompilerCore.csproj" t="IncludeRecursive" />
+        <e p="NemerleModifiers.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="NemerleCompilerCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Parsetree" t="Include">
+          <e p="IParametersProvider.cs" t="Include" />
+        </e>
+        <e p="PropertyBuilder.cs" t="Include" />
+        <e p="RelocationInfo.cs" t="Include" />
+        <e p="TFunHeader.cs" t="Include" />
+        <e p="TParameter.cs" t="Include" />
+        <e p="TypeBuilder.cs" t="Include" />
+        <e p="TypedBase.cs" t="Include" />
+        <e p="TypeInfo.cs" t="Include" />
+        <e p="TypesManager.cs" t="Include" />
+        <e p="TypeVar.cs" t="Include" />
+      </e>
+      <e p="NemerleCore" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Builtins" t="Include">
+          <e p="Array.cs" t="Include" />
+          <e p="Function.cs" t="Include" />
+          <e p="FunctionFromTuple.cs" t="Include" />
+          <e p="FunctionVoid.cs" t="Include" />
+          <e p="FunctionVoidFromTuple.cs" t="Include" />
+          <e p="Lambda.cs" t="Include" />
+          <e p="Tuple.cs" t="Include" />
+        </e>
+        <e p="Collections" t="Include">
+          <e p="ICovariant.cs" t="Include" />
+          <e p="ListEnumerator.cs" t="Include" />
+          <e p="NCollectionsExtensions.cs" t="Include" />
+          <e p="NList.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Exception.cs" t="Include" />
+          <e p="List.cs" t="Include" />
+          <e p="Option.cs" t="Include" />
+          <e p="Primitive.cs" t="Include" />
+          <e p="ValueOption.cs" t="Include" />
+        </e>
+        <e p="Internal" t="Include">
+          <e p="Attribute.cs" t="Include" />
+        </e>
+        <e p="NemerleCore.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="NemerleCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="NemerleExperiment.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\kinomata1\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kinomata1\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_NemerleExperiment.295119246.00" t="ExcludeRecursive" />
+  </component>
+</project>
