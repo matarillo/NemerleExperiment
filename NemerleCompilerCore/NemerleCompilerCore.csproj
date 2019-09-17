@@ -5,7 +5,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Emit" />
+      <PackageReference Include="System.Reflection.Emit" Version="4.6.0-rc1.19456.4" />
+      <PackageReference Include="System.Reflection.Emit.ILGeneration" Version="4.6.0-rc1.19456.4" />
+      <PackageReference Include="System.Security.Permissions" Version="4.6.0-rc1.19456.4" />
     </ItemGroup>
 
 </Project>

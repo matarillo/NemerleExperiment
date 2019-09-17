@@ -1,6 +1,6 @@
 ﻿namespace Nemerle.Compiler
 {
-    public class TypeBuilder : TypeInfo
+    public class ManagerClass : IEngine
     {
         
     }

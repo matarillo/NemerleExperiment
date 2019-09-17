@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Diagnostics.SymbolStore;
 using System.IO;
 using System.Reflection;
+using System.Security;
+using Emit = System.Reflection.Emit;
 
 namespace Nemerle.Compiler
 {
